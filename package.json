@@ -1,0 +1,10 @@
+{
+  "name": "openbox-pipemenu",
+  "version": "1.0.0",
+  "description": "Simple library for creating openbox pipemenus",
+  "main": "openbox-pipemenu.js",
+  "scripts": {
+  },
+  "author": "josefandersson",
+  "license": "ISC"
+}
